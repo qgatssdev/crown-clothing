@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  //testing stuff
   return (
     <div className="App">
     </div>
